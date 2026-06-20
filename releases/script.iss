@@ -51,7 +51,6 @@ Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\EntityFramework.SqlServer.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\EntityFramework.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\EnvDTE.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\EnvDTE.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\ExcelNumberFormat.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\ExcelNumberFormat.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "D:\Projet Visual Studio\PointVenteSoft_Yousef_Store\Facture\bin\Release\Facture.application"; DestDir: "{app}"; Flags: ignoreversion
